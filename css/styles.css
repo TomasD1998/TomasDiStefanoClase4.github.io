@@ -1,0 +1,20 @@
+.dias {
+    font-weight: bold;
+    font-size: large;
+}
+
+.horas {
+    font-style: italic;
+}
+
+.color1 {
+    background-color: rgba(0, 188, 0, 0.750);
+}
+
+.color2 {
+    background-color: rgba(255, 255, 0, 0.750);
+}
+
+.color3 {
+    background-color: rgba(255, 0, 0, 0.750);
+}
